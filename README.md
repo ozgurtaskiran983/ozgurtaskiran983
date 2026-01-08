@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System+Initializing...;Gazi+%C3%9Cniversitesi+Bilgisayar+M%C3%BCh.;Network+%26+Cyber+Systems;echo+%22Hello+World%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=System+Initializing...;Gazi+%C3%9Cniversitesi+Bilgisayar+M%C3%BCh.;Network+%26+Cyber+Systems;root@ozgur:~$+ping+127.0.0.1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -46,8 +46,8 @@ Selam! Ben **Özgür Taşkıran**.
 ### `root@ozgur:~/stats#`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozgurtaskiran983&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurtaskiran983&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ozgurtaskiran983&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurtaskiran983&layout=compact&theme=tokyonight" height="160" />
 </div>
 
 <br/>
