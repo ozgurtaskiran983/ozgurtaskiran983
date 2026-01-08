@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Hp4lp3v6eWKDXUj4pS/giphy.gif" width="100%" height="20"/>
+  <img src="https://i.imgur.com/kC8FmZk.gif" width="100%" height="30">
 </div>
 
 ### `root@ozgur:~$ whoami`
