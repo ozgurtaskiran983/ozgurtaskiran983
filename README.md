@@ -15,14 +15,3 @@ Merhaba, ben **Özgür Taşkıran**. Yazılım dünyasında kendimi geliştiriyo
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
 
----
-
-### 📊 GitHub İstatistiklerim
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozgurtaskiran983&show_icons=true&theme=radical" height="150" alt="Özgür's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurtaskiran983&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozgurtaskiran983&color=blueviolet" alt="Profile Views" />
-</div>
