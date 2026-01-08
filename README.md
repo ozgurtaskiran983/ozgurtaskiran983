@@ -12,7 +12,7 @@
 Selam! Ben **Özgür Taşkıran**. 
 **Gazi Üniversitesi Bilgisayar Mühendisliği 3. Sınıf** öğrencisiyim. 
 
-Şu anda veri paketlerinin dünyasında geziniyor, **Ağ Teknolojileri (Network)** ve sistem mimarileri üzerine yoğunlaşıyorum. Bir bilgisayarın diğerine nasıl "merhaba" dediği, benim için bir kod satırından çok daha fazlası.
+Şu anda veri paketlerinin dünyasında geziniyor, **Ağ Teknolojileri (Network)** ve sistem mimarileri üzerine yoğunlaşıyorum.
 
 * 📡 **Odak Noktam:** TCP/IP, Routing, Switching, Network Security.
 * 🔭 **Şu an:** Ağ protokollerini derinlemesine inceliyor ve lab ortamları kuruyorum.
