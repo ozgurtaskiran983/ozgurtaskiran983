@@ -1,17 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Merhaba,%20Ben%20Özgür!&fontSize=70&fontAlign=50&fontAlignY=35&animation=twinkling" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System+Initializing...;Gazi+%C3%9Cniversitesi+Bilgisayar+M%C3%BCh.;Network+%26+Cyber+Systems;echo+%22Hello+World%22" alt="Typing SVG" />
 </div>
 
-### 👋 Hakkımda
-Merhaba, ben **Özgür Taşkıran**. Yazılım dünyasında kendimi geliştiriyorum.
+<div align="center">
+  <img src="https://media.giphy.com/media/Hp4lp3v6eWKDXUj4pS/giphy.gif" width="100%" height="20"/>
+</div>
+
+### `root@ozgur:~$ whoami`
+> **Access Granted.** 🔓
+
+Selam! Ben **Özgür Taşkıran**. 
+**Gazi Üniversitesi Bilgisayar Mühendisliği 3. Sınıf** öğrencisiyim. 
+
+Şu anda veri paketlerinin dünyasında geziniyor, **Ağ Teknolojileri (Network)** ve sistem mimarileri üzerine yoğunlaşıyorum. Bir bilgisayarın diğerine nasıl "merhaba" dediği, benim için bir kod satırından çok daha fazlası.
+
+* 📡 **Odak Noktam:** TCP/IP, Routing, Switching, Network Security.
+* 🔭 **Şu an:** Ağ protokollerini derinlemesine inceliyor ve lab ortamları kuruyorum.
+* ⚡ **Hedef:** Network Mühendisliği ve Siber Güvenlik alanlarında uzmanlaşmak.
 
 ---
 
-### 🛠️ Yetenekler & Teknolojiler
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
+### `root@ozgur:~/skills# ./list_tools.sh`
 
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+### `root@ozgur:~/stats#`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozgurtaskiran983&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurtaskiran983&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" height="160" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%23000000" width="500" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozgurtaskiran983&style=flat-square&color=brightgreen&label=SYSTEM+VISITORS" alt="Profile Views" />
+</div>
