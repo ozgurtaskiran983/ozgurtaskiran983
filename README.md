@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Digital_rain_animation_medium_letters_shine.gif" width="100%" height="40">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ### `root@ozgur:~$ whoami`
