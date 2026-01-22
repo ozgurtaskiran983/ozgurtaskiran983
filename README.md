@@ -43,12 +43,6 @@ Selam! Ben **Özgür Taşkıran**.
 
 ---
 
-### `root@ozgur:~/stats#`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozgurtaskiran983&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurtaskiran983&layout=compact&theme=tokyonight" height="160" />
-</div>
 
 <br/>
 <div align="center">
